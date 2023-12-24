@@ -1,0 +1,1 @@
+# Star Events React Native Application
